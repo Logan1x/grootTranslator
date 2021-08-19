@@ -1,6 +1,6 @@
 # groot translator
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/84218441-f2a5-4b53-9082-beea76d82def/deploy-status)](https://app.netlify.com/sites/banana-trans/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e8e7ead1-2dcf-46e3-acb3-e1e6f7ebd619/deploy-status)](https://app.netlify.com/sites/groot-translator-neog/deploys)
 [![License](https://img.shields.io/github/license/logan1x/banana_translator?style=flat-square)](https://github.com/Logan1x/banana_translator/blob/master/LICENSE)
 [![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fbanana-trans.netlify.app%2F)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fbanana-trans.netlify.app%2F)
 
